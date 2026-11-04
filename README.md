@@ -291,6 +291,7 @@ This project was developed collaboratively during Mackethon, a pre-event of Prom
 - **[Nandana Nair](https://www.linkedin.com/in/nandana-nair-88431a2a6/)**
 - **[Swetha Varghese](https://www.linkedin.com/in/swetha-varghese-25aa5328b/)**
 - **[Gauri Luxmi R](https://www.linkedin.com/in/gauri-luxmi-r-/)**
+- **[Niranjana Santhosh](https://www.linkedin.com/in/niranjana-santhosh-0bb4b4260/)**
 
 ## 📖 17. Installation and Execution
 
